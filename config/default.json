@@ -1,0 +1,4 @@
+{
+  "mongoURI" : "mongodb+srv://Romantas:NbRhgY0Ko4ZUqfcY@praktika-mdaka.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "sl_Praktika"
+}
